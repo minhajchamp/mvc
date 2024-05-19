@@ -1,0 +1,15 @@
+{
+    "name": "minhaj/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "\\": "app/src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Minhaj Uddin",
+            "email": "minhajchamp@gmail.com"
+        }
+    ],
+    "require": {}
+}
